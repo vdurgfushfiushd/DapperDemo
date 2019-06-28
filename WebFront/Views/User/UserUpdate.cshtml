@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div>
+      <form action="~/User/UserUpdate" method="post">
+          <label>姓名:</label><input type="text" name="Name" value=@Model.Name /><br />
+          <label>密码:</label><input type="text" name="Password" value=@Model.Password /><br />
+                              <input type="hidden" name="Id" value=@Model.Id /><br />
+                              <input type="submit" value="修改" />
+      </form>
+    </div>
+</body>
+</html>

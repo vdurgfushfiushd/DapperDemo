@@ -1,0 +1,40 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div>
+      <a href="/User/UserAdd">新增</a>
+      <table>
+          <tr>
+              <td>Id</td>
+              <td>Name</td>
+              <td>Password</td>
+              <td>CreateTime</td>
+              <td>删除</td>
+              <td>编辑</td>
+          </tr>
+          @{
+              foreach (var entity in Model)
+              {
+                <tr>
+                    <td>@entity.Id</td>
+                    <td>@entity.Name</td>
+                    <td>@entity.Password</td>
+                    <td>@entity.CreateTime</td>
+                    <td><a href="/User/UserDelete?Id=@entity.Id">删除</a></td>
+                    <td><a href="/User/UserUpdate?Id=@entity.Id">编辑</a></td>
+                </tr>
+              }
+        }
+      </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+D:\vb project\DapperPro\Service\bin\Debug\Service.dll
+D:\vb project\DapperPro\Service\bin\Debug\Service.pdb
+D:\vb project\DapperPro\Service\bin\Debug\BouncyCastle.Crypto.dll
+D:\vb project\DapperPro\Service\bin\Debug\Dapper.dll
+D:\vb project\DapperPro\Service\bin\Debug\Google.Protobuf.dll
+D:\vb project\DapperPro\Service\bin\Debug\IService.dll
+D:\vb project\DapperPro\Service\bin\Debug\Model.dll
+D:\vb project\DapperPro\Service\bin\Debug\MySql.Data.dll
+D:\vb project\DapperPro\Service\bin\Debug\IService.pdb
+D:\vb project\DapperPro\Service\bin\Debug\Model.pdb
+D:\vb project\DapperPro\Service\bin\Debug\Dapper.xml
+D:\vb project\DapperPro\Service\bin\Debug\Google.Protobuf.xml
+D:\vb project\DapperPro\Service\bin\Debug\MySql.Data.xml
+D:\vb project\DapperPro\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\vb project\DapperPro\Service\obj\Debug\Service.dll
+D:\vb project\DapperPro\Service\obj\Debug\Service.pdb

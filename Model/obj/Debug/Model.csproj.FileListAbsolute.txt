@@ -1,0 +1,4 @@
+D:\vb project\DapperPro\Model\bin\Debug\Model.dll
+D:\vb project\DapperPro\Model\bin\Debug\Model.pdb
+D:\vb project\DapperPro\Model\obj\Debug\Model.dll
+D:\vb project\DapperPro\Model\obj\Debug\Model.pdb

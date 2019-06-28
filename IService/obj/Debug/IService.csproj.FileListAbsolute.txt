@@ -1,0 +1,7 @@
+D:\vb project\DapperPro\IService\bin\Debug\IService.dll
+D:\vb project\DapperPro\IService\bin\Debug\IService.pdb
+D:\vb project\DapperPro\IService\bin\Debug\Model.dll
+D:\vb project\DapperPro\IService\bin\Debug\Model.pdb
+D:\vb project\DapperPro\IService\obj\Debug\IService.csprojResolveAssemblyReference.cache
+D:\vb project\DapperPro\IService\obj\Debug\IService.dll
+D:\vb project\DapperPro\IService\obj\Debug\IService.pdb
